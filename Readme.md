@@ -39,5 +39,5 @@ Your code will be evaluated in two stages.
 
 This example uses the following directories and files
 
-/tmp/data: Table data stored in '|' separated files. As before, table names match the names provided in the matching CREATE TABLE with the .dat suffix.
+/tmp/data: Table data stored in '|' separated files. As before, table names match the names provided in the matching CREATE TABLE with the .dat suffix.                                                        
 tpch-schema.sql: A file containing the CREATE TABLE statements for all tables in the TPC-H schema.
